@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: #000000;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+footer p {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+form input, form textarea {
+    margin-bottom: 1rem;
+}
+
+.fa-3x {
+    margin-bottom: 1rem;
+    color: #007bff;
+}
